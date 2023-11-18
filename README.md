@@ -1,4 +1,4 @@
-### Well hey, I'm Naomi! <img src="https://tenor.com/en-GB/view/get-greeting-get-greetings-waving-hands-hey-hand-wave-gif-8895078247757219014" width="30px">
+### Well hey, I'm Naomi! <img src="[https://tenor.com/en-GB/view/get-greeting-get-greetings-waving-hands-hey-hand-wave-gif-8895078247757219014](https://tenor.com/view/get-greeting-get-greetings-waving-hands-hey-hand-wave-gif-8895078247757219014)" width="30px">
 
 <!--
 **captainaomi/captainaomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
