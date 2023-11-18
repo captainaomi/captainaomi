@@ -8,12 +8,28 @@ I can also fly helicopters and legally marry people in Australia, as well as hav
 
 So, yes, I'm tenacious, I'm driven, I'm a people person, and I love a challenge!
 
-### I'm all about community, so we can connect here:
+## I'm all about community, so we can connect here:
 
-[<img src="https://i.pinimg.com/originals/c4/0d/09/c40d09b8bd4121410515aebe46e03f6b.png" alt="linkedin" width="70px">](https://www.linkedin.com/in/naomi-mowbray/) [<img src="https://image.similarpng.com/very-thumbnail/2020/04/Instagram-logo-modern-paint-splash-social-media-png.png" alt="insta" width="70px">](https://www.instagram.com/captainaomi/) 
+[<img src="https://www.svgrepo.com/show/382726/linkedin-linked-in.svg" alt="linkedin" width="63px">](https://www.linkedin.com/in/naomi-mowbray/) [<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="insta" width="70px">](https://www.instagram.com/captainaomi/) 
 
-<a href="https://www.linkedin.com/in/naomi-mowbray/" target="blank"><img align="center" src="https://i.pinimg.com/originals/c4/0d/09/c40d09b8bd4121410515aebe46e03f6b.png" alt="Naomi Mowbray LinkedIn" height="30" width="40" /></a>
-</p>
+## and I've been learning quite a bit in 2023:
+
+[<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/475654/github-color.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+
+
+
+
+[<img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/336126/terminal.svg" />]
+
 
 
 
