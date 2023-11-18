@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well hey, I'm Naomi! ![hand](https://tenor.com/en-GB/view/get-greeting-get-greetings-waving-hands-hey-hand-wave-gif-8895078247757219014)
 
 <!--
 **captainaomi/captainaomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
